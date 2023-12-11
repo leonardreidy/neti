@@ -1,0 +1,7 @@
+node_modules
+console/**/*.js
+build
+coverage
+playground
+.pnpm-store
+tsoa-generated
